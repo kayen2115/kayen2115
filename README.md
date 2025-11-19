@@ -2,7 +2,7 @@
 - 🔭 I'm an ICT student at AGH University of Krakow<br>
 - 🛜 I'm passionate about Networking and pursuing related Certifications<br>
 - 🐍 Programming as a hobby and learning opportunity
-- 👾 I like doing simple homelab projects, tweaking with networks and video games
+- 👾 I like doing simple homelab projects, tweaking networks and video games
 
 
 # 💻 Tech Stack:
